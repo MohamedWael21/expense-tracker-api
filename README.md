@@ -13,7 +13,7 @@ npm run build
 npm start
 ```
 
-## seed database
+## Seed database
 
 you can seed database by run:
 
